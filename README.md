@@ -81,4 +81,3 @@ I'm currently working on TBD NAME 🤣. A movies and series rating app. It will 
 
 ### ✍️ Blog Posts : 
 - [Career & Life Change](https://medium.com/@juanprubio/career-and-life-change-89e110775119)
-
