@@ -64,8 +64,9 @@ I am a Full Stack Engineer <img src="https://media.giphy.com/media/ZchkBcB4zKiuG
 
 I'm currently working on TBD NAME 🤣. A movies and series rating app. It will be free and open source. Follow the [Twitter](https://twitter.com/TBDProject) feed to keep up with progress.
 
-### CHANGE IMAGE
-![TBDProject](/assets/TBDProject.jpg)
+<p align="center">
+  <img src="https://github.com/JuanPRubio/juanprubio/blob/master/assets/current-project/TBDPreview.PNG?raw=true" title="Current Project"  alt="currentproject" width="300"/>&nbsp;
+</p>
 
 &nbsp;
 
