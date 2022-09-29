@@ -13,7 +13,7 @@
   <a href="https://discord.com/users/691051474318262305"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"></a>
 </p>
 
-### 👨🏼‍💻 &nbsp;About Me :
+## 👨🏼‍💻 &nbsp;About Me :
 
 I am a Full Stack Engineer <img src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif" width="30" >
 
@@ -23,7 +23,7 @@ I am a Full Stack Engineer <img src="https://media.giphy.com/media/ZchkBcB4zKiuG
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+## 🛠 &nbsp;Languages and Tools :
 
 <h3>Frontend</h3>
 <p>
@@ -80,5 +80,5 @@ I'm currently working on TBD NAME 🤣. A movies and series rating app. It will 
 ---
 -->
 
-### ✍️ Blog Posts : 
+## ✍️ Blog Posts : 
 - [Career & Life Change](https://medium.com/@juanprubio/career-and-life-change-89e110775119)
