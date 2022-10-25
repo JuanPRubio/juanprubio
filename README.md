@@ -62,10 +62,10 @@ I am a Full Stack Engineer <img src="https://media.giphy.com/media/ZchkBcB4zKiuG
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on TBD NAME 🤣. A movies and series rating app. It will be free and open source. Follow the [Twitter](https://twitter.com/TBDProject) feed to keep up with progress.
+I'm currently working on Criticorn 🍿🎬. A movies and series rating app. It will be free and open source. Follow the [Twitter](https://twitter.com/TBDProject) feed to keep up with progress.
 
 <p align="center">
-  <img src="https://github.com/JuanPRubio/juanprubio/blob/master/assets/current-project/TBDPreview.PNG?raw=true" title="Current Project"  alt="currentproject" width="300"/>&nbsp;
+  <img src="https://github.com/JuanPRubio/juanprubio/blob/master/assets/current-project/TBDPreview.PNG?raw=true" title="Criticorn"  alt="criticorn" width="300"/>&nbsp;
 </p>
 
 &nbsp;
