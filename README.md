@@ -21,6 +21,11 @@ I am a Full Stack Engineer <img src="https://media.giphy.com/media/ZchkBcB4zKiuG
 - 🌱 Learning about React Native, Solidity, and AWS and exploring Technical Content Writing.
 - 🕹 In my free time, you can find me doing some sports, playing guitar and/or videogames. Also trying to help other at Stackoverflow.
 
+<p align="center">
+  <h3>Personal Portfolio</h3>
+    <a href"juanprubio.com">
+</p>
+
 ---
 
 ## 🛠 &nbsp;Languages and Tools :
