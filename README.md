@@ -1,5 +1,4 @@
 [Wallbit.io]: https://wallbit.io
-[juanprubio.com]: https://juanprubio.com
 
 <h1 align="center">
   <p>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Hi there</p>
@@ -16,16 +15,18 @@
 
 ## 👨🏼‍💻 &nbsp;About Me :
 
-<h3>I am a Full Stack Engineer </h3><img src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif" width="30" >
+I am a Full Stack Engineer <img src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif" width="30" >
 
 - 🚀 Currently working at [Wallbit.io] contributing in frontend and backend for building this awesome app.
 - 🌱 Learning about React Native, Solidity, and AWS and exploring Technical Content Writing.
 - 🕹 In my free time, you can find me doing some sports, playing guitar and/or videogames. Also trying to help other at Stackoverflow.
 
 <p align="center">
-  <h3>Personal Portfolio</h3>
-    [juanprubio.com]
+  <h4>Personal Portfolio</h4>
 </p>
+
+https://juanprubio.com
+
 
 ---
 
