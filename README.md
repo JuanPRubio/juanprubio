@@ -15,7 +15,7 @@
 
 ## 👨🏼‍💻 &nbsp;About Me :
 
-I am a Full Stack Engineer <img src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif" width="30" >
+<h3>I am a Full Stack Engineer </h3><img src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif" width="30" >
 
 - 🚀 Currently working at [Wallbit.io] contributing in frontend and backend for building this awesome app.
 - 🌱 Learning about React Native, Solidity, and AWS and exploring Technical Content Writing.
@@ -23,7 +23,7 @@ I am a Full Stack Engineer <img src="https://media.giphy.com/media/ZchkBcB4zKiuG
 
 <p align="center">
   <h3>Personal Portfolio</h3>
-    <a href"juanprubio.com">
+    <a href"juanprubio.com">juanprubio.com</a>
 </p>
 
 ---
